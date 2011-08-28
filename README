@@ -1,1 +1,5 @@
-test
+Anecka Labs is a collection of interesting classes & tools we've developed to support client projects.
+
+Anecka.Labs.Convio 			/**** set of C#/NET classes for interacting with Convio's Open REST API ****/
+Anecka.Labs.Convio.Tests 	/**** tests for the above namespace ****/
+Anecka.Labs 				/**** general utility classes ****/
